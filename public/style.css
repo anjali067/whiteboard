@@ -1,0 +1,24 @@
+body{
+    /*margin-top: 2%;*/
+    margin: 100px;
+    margin-left: 400px;
+    background-color: #eef2ff;
+}
+.title{
+    text-align: center;
+    padding-bottom: 3%;
+}
+/*.drawing-space{*/
+    /*height: 73vh;*/
+/*}*/
+
+canvas {
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.clear_button{
+
+}
