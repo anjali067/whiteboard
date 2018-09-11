@@ -21,9 +21,9 @@ io.on('connection', function (socket) {
         io.emit('clear_canvas');
     });
 
-    socket.on('save', function () {
-        io.emit('save');
-    });
+    //socket.on('save', function () {
+      //  io.emit('save');
+    //});
 
 });
 
